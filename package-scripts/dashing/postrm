@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary dashing removal steps
+# after package is uninstalled.
+#
+
+echo "dashing has been uninstalled!"
+
+exit 0
